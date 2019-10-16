@@ -5,7 +5,9 @@
   Use this pattern to create your objects: 
   object name, diet, weight, length, period
 */
+const dinosaur = 
 
+}
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
 
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
